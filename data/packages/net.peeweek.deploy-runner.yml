@@ -1,0 +1,23 @@
+name: net.peeweek.deploy-runner
+displayName: Deploy Runner (Client)
+description: >-
+  Deploy Runner Client, to be used with the DeployRunner server. Uploads and
+  runs builds on remote systems, like on console devkits.
+repoUrl: https://github.com/peeweek/DeployRunner
+parentRepoUrl: null
+licenseSpdxId: MIT
+licenseName: MIT License
+image: >-
+  https://raw.githubusercontent.com/peeweek/DeployRunner/refs/heads/master/.images/screenshot.jpg
+topics:
+  - debugging-and-logging
+  - editor-enhancement
+  - profiling
+  - testing
+  - utilities
+hunter: peeweek
+gitTagPrefix: ''
+gitTagIgnore: ''
+minVersion: ''
+readme: master:README.md
+createdAt: 1741328591045
